@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from cmk.werks.cli import main
+from cyware.werks.cli import main
 
 if __name__ == "__main__":
     main()
